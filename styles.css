@@ -56,6 +56,9 @@ span.button.callAction {
   display: flex;
   flex-wrap: wrap;
 }
+.col12 {
+  width: 100%;
+}
 .col8 {
   width: 66.67%;
 }
