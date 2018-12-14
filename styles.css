@@ -30,7 +30,8 @@ h3 {
   position: sticky;
 }
 #header .container {
-  margin: 8px;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 #fullLogo {
   width: 250px;
