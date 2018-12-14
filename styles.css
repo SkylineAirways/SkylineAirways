@@ -28,11 +28,33 @@ h3 {
   text-transform: uppercase;
   font-size: 1.7em;
 }
+h4 {
+  font-family: 'Open Sans', helvetica, arial, sans-serif;
+  color: #174082;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+/*Color Span Styles*/
+.colorSpan {
+  background-color: #4C617F;
+}
+.colorSpan h4 {
+  color: #fff;
+  text-align: center;
+}
+.colorSpan p {
+  color: #fff;
+}
 /*Image Handling*/
 .imageSmall {
   max-width: 333px;
   padding-top: 20px;
   display: block;
+}
+.iconLarge {
+  max-width: 100px;
+  display: block;
+  margin: auto;
 }
 /*Logo & Navigation*/
 #header .container {
