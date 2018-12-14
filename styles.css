@@ -81,12 +81,6 @@ span.button.callAction {
 footer {
   background-color: #4C617F;
 }
-footer p {
-  margin: 0px;
-  color: #fff;
-  font-weight: 700;
-  font-size: 0.8em;
-}
 /*"Discount Bootstrap" Responsive Grid Default (Desktop)*/
 .container {
   max-width: 1000px;
