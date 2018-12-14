@@ -47,7 +47,7 @@ h4 {
 .colorSpan p {
   color: #fff;
 }
-.colorSpan .col3 p {
+.colorSpan .col4 p {
   padding-right: 1em;
 }
 /*Image Handling*/
@@ -155,7 +155,7 @@ footer {
   .imageSmall {
     margin: auto;
   }
-  .colorSpan .col3 p {
+  .colorSpan .col4 p {
     padding-right: 0px;
   }
 }
