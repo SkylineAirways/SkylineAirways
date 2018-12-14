@@ -25,7 +25,8 @@ h3 {
   width: 250px;
 }
 #hero {
-  background-image: url("/images/Hero_Image.png");
+  background-image: url("images/Hero_Image.png");
+  background-size: 100%
 }
 span.button {
   background-color: #FFC408;
