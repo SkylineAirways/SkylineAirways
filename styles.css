@@ -26,6 +26,12 @@ h3 {
   text-transform: uppercase;
   font-size: 1.7em;
 }
+#header {
+  position: sticky;
+}
+#header .container {
+  margin: 8px;
+}
 #fullLogo {
   width: 250px;
 }
@@ -41,8 +47,8 @@ span.button {
   background-color: #FFC408;
   border-top: 4px solid #174082;
   padding: 5px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
   font-weight: 700;
   color: #fff;
   text-transform: uppercase;
