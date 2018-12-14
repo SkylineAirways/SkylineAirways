@@ -67,6 +67,8 @@ span.button.callAction {
 }
 #flightInfo {
   background-color: #EDEFF2;
+  padding: 10px;
+  box-sizing: border-box;
 }
 .container {
   max-width: 1000px;
