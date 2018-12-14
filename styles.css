@@ -46,6 +46,10 @@ span.button.callAction {
 #flightInfo {
   background-color: #EDEFF2;
 }
+main {
+  width: 1000px;
+  margin: auto;
+}
 .row {
   display: flex;
   flex-wrap: wrap;
