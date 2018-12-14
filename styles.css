@@ -28,6 +28,12 @@ h3 {
   text-transform: uppercase;
   font-size: 1.7em;
 }
+/*Image Handling*/
+.imageSmall {
+  max-width: 333px;
+  padding-top: 20px;
+  display: block;
+}
 /*Logo & Navigation*/
 #header .container {
   margin-top: 8px;
@@ -118,6 +124,9 @@ footer {
     margin: auto;
     display: block;
     width: 90px;
+  }
+  .imageSmall {
+    margin: auto;
   }
 }
 @media only screen and (min-width: 750px) and (max-width: 992px) {
