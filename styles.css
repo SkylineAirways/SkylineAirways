@@ -28,6 +28,7 @@ h3 {
 }
 #header {
   position: sticky;
+  position: -webkit-sticky;
 }
 #header .container {
   margin-top: 8px;
