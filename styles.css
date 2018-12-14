@@ -29,6 +29,7 @@ span.button {
   font-weight: 700;
   color: #fff;
   text-transform: uppercase;
+  font-family: 'Open Sans', helvetica, arial, sans-serif;
 }
 span.button.callAction {
   background-color: #FFC408;
