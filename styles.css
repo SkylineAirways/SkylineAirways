@@ -109,6 +109,7 @@ span.button.callAction {
   color: #174082;
   font-weight: 700;
   margin: 0px;
+  display: inline-block;
 }
 #flightInfo {
   background-color: #EDEFF2;
