@@ -47,6 +47,9 @@ h4 {
 .colorSpan p {
   color: #fff;
 }
+.colorSpan .col3 p {
+  padding-right: 1em;
+}
 /*Image Handling*/
 .imageSmall {
   max-width: 333px;
@@ -152,8 +155,11 @@ footer {
   .imageSmall {
     margin: auto;
   }
+  .colorSpan .col3 p {
+    padding-right: 0px;
+  }
 }
-@media only screen and (min-width: 750px) and (max-width: 992px) {
+@media only screen and (min-width: 750px) and (max-width: 1000px) {
   .container {
     padding: 10pt;
     box-sizing: border-box;
