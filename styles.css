@@ -19,6 +19,9 @@ h3 {
   font-weight: 700;
   text-transform: uppercase;
 }
+#fullLogo {
+  width: 250px;
+}
 span.button {
   background-color: #174082;
   border-top: 4px solid #FFC408;
