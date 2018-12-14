@@ -25,16 +25,19 @@ h3 {
   width: 250px;
 }
 #hero {
-  background-image: url("images/Hero_Image.png");
+  background-image: url("/images/Hero_Image.png");
 }
 span.button {
   background-color: #FFC408;
   border-top: 4px solid #174082;
   padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
   font-weight: 700;
   color: #fff;
   text-transform: uppercase;
   font-family: 'Open Sans', helvetica, arial, sans-serif;
+  font-size: 0.9em;
 }
 span.button.callAction {
   background-color: #174082;
