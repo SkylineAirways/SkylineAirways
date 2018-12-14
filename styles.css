@@ -24,9 +24,12 @@ h3 {
 #fullLogo {
   width: 250px;
 }
+#hero {
+  background-image: url("images/Hero_Image.png");
+}
 span.button {
-  background-color: #174082;
-  border-top: 4px solid #FFC408;
+  background-color: #FFC408;
+  border-top: 4px solid #174082;
   padding: 5px;
   font-weight: 700;
   color: #fff;
@@ -34,8 +37,8 @@ span.button {
   font-family: 'Open Sans', helvetica, arial, sans-serif;
 }
 span.button.callAction {
-  background-color: #FFC408;
-  border-top: 4px solid #174082;
+  background-color: #174082;
+  border-top: 4px solid #FFC408;
 }
 .flightTime {
   font-size: 1.2em;
