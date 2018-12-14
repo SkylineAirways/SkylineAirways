@@ -2,3 +2,53 @@ p {
   font-family: 'Open Sans', helvetica, arial, sans-serif;
   color: #4C617F;
 }
+h1 {
+  font-family: 'Open Sans', helvetica, arial, sans-serif;
+  color: #174082;
+  font-weight: 700;
+}
+h2 {
+  font-family: 'Open Sans', helvetica, arial, sans-serif;
+  color: #fff;
+  font-weight: 700;
+  text-shadow: 0px 3px 6px rgba(0,0,0,0.15);
+}
+h3 {
+  font-family: 'Open Sans', helvetica, arial, sans-serif;
+  color: #174082;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+span.button {
+  background-color: #174082;
+  border-top: 4px solid #FFC408;
+  padding: 5px;
+  font-weight: 700;
+  color: #fff;
+  text-transform: uppercase;
+}
+span.button.callAction {
+  background-color: #FFC408;
+  border-top: 4px solid #174082;
+}
+.flightTime {
+  font-size: 1.2em;
+}
+.flightRoute {
+  font-size: 1.2em;
+  color: #174082;
+  font-weight: 700;
+}
+#flightInfo {
+  background-color: #EDEFF2;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.col8 {
+  width: 66.67%;
+}
+.col4 {
+  width: 33.33%;
+}
