@@ -57,6 +57,11 @@ h4 {
   display: block;
 }
 .iconLarge {
+  max-width: 1em;
+  display: inline;
+  margin-right: 1em;
+}
+.iconLarge {
   max-width: 60px;
   display: block;
   margin: auto;
