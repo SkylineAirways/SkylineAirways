@@ -59,7 +59,7 @@ h4 {
 .iconSmall {
   max-width: 1em;
   display: inline;
-  margin-right: 1em;
+  margin-right: 0.7em;
 }
 .iconLarge {
   max-width: 60px;
@@ -104,6 +104,7 @@ span.button.callAction {
 /*Recent Flights Section*/
 .flightTime {
   margin: 0px;
+  margin-top: 20px;
 }
 .flightRoute {
   color: #174082;
