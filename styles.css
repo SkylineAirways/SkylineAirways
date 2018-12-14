@@ -41,6 +41,7 @@ h3 {
 }
 #hero h2{
   margin-top: 6em;
+  margin-bottom: 1.5em;
 }
 span.button {
   background-color: #174082;
@@ -59,10 +60,12 @@ span.button.callAction {
   border-top: 4px solid #FFC408;
 }
 .flightTime {
+  margin: 0px;
 }
 .flightRoute {
   color: #174082;
   font-weight: 700;
+  margin: 0px;
 }
 #flightInfo {
   background-color: #EDEFF2;
