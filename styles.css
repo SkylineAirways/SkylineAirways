@@ -119,7 +119,9 @@ span.button.callAction {
 }
 /*Footer*/
 footer {
-  background-color: #4C617F;
+}
+#copyright {
+  text-align: center;
 }
 /*"Discount Bootstrap" Responsive Grid Default (Desktop)*/
 .container {
