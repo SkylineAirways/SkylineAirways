@@ -77,6 +77,12 @@ span.button.callAction {
   padding: 10px;
   box-sizing: border-box;
 }
+/*Footer*/
+footer {
+  background-color: #4C617F;
+  color: #fff;
+  font-weight: 700;
+}
 /*"Discount Bootstrap" Responsive Grid Default (Desktop)*/
 .container {
   max-width: 1000px;
