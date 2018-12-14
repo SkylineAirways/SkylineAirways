@@ -83,6 +83,9 @@ footer {
   color: #fff;
   font-weight: 700;
 }
+footer p {
+  margin: 0px;
+}
 /*"Discount Bootstrap" Responsive Grid Default (Desktop)*/
 .container {
   max-width: 1000px;
