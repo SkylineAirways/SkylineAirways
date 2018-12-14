@@ -37,6 +37,8 @@ h4 {
 /*Color Span Styles*/
 .colorSpan {
   background-color: #4C617F;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 .colorSpan h4 {
   color: #fff;
@@ -52,7 +54,7 @@ h4 {
   display: block;
 }
 .iconLarge {
-  max-width: 100px;
+  max-width: 60px;
   display: block;
   margin: auto;
 }
