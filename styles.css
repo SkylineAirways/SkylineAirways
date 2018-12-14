@@ -48,7 +48,7 @@ span.button.callAction {
 #flightInfo {
   background-color: #EDEFF2;
 }
-main {
+.container {
   width: 1000px;
   margin: auto;
 }
