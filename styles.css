@@ -1,3 +1,4 @@
+/*Text Handling*/
 body {
   margin: 0px;
   font-family: 'Open Sans', helvetica, arial, sans-serif;
@@ -27,6 +28,7 @@ h3 {
   text-transform: uppercase;
   font-size: 1.7em;
 }
+/*Logo & Navigation*/
 #header .container {
   margin-top: 8px;
   margin-bottom: 8px;
@@ -34,6 +36,7 @@ h3 {
 #fullLogo {
   width: 250px;
 }
+/*Hero Header*/
 #hero {
   background-image: url("images/Hero_Image.png");
   background-size: cover;
@@ -43,6 +46,7 @@ h3 {
   margin-top: 6em;
   margin-bottom: 1.5em;
 }
+/*Buttons*/
 span.button {
   background-color: #174082;
   padding: 5px;
@@ -59,6 +63,7 @@ span.button.callAction {
   background-color: #174082;
   border-top: 4px solid #FFC408;
 }
+/*Recent Flights Section*/
 .flightTime {
   margin: 0px;
 }
@@ -72,6 +77,7 @@ span.button.callAction {
   padding: 10px;
   box-sizing: border-box;
 }
+/*"Discount Bootstrap" Responsive Grid Default (Desktop)*/
 .container {
   max-width: 1000px;
   margin: auto;
@@ -82,13 +88,17 @@ span.button.callAction {
 }
 .col12 {
   width: 100%;
+  margin-bottom: 2em;
 }
 .col8 {
   width: 66.67%;
+  margin-bottom: 2em;
 }
 .col4 {
   width: 33.33%;
+  margin-bottom: 2em;
 }
+/*Media Queries for Responsive Grid*/
 @media only screen and (max-width: 750px) {
   .container {
     padding: 10pt;
