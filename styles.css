@@ -248,4 +248,7 @@ footer {
     padding-left: 0;
     padding-right: 0;
   }
+  span.button {
+    margin-left: 10pt;
+  }
 }
