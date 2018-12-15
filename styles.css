@@ -153,8 +153,29 @@ footer {
 }
 /*Media Queries for Responsive Grid*/
 @media only screen and (max-width: 750px) {
-  .container {
-    padding: 10pt;
+  p {
+    padding-left: 10pt;
+    padding-right: 10pt;
+    box-sizing: border-box;
+  }
+  h1 {
+    padding-left: 10pt;
+    padding-right: 10pt;
+    box-sizing: border-box;
+  }
+  h2 {
+    padding-left: 10pt;
+    padding-right: 10pt;
+    box-sizing: border-box;
+  }
+  h3 {
+    padding-left: 10pt;
+    padding-right: 10pt;;
+    box-sizing: border-box;
+  }
+  h4 {
+    padding-left: 10pt;
+    padding-right: 10pt;
     box-sizing: border-box;
   }
   .col8 {
