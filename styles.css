@@ -178,6 +178,19 @@ footer {
     padding-right: 10pt;
     box-sizing: border-box;
   }
+  header {
+    padding-left: 10pt;
+    padding-right: 10pt;
+    box-sizing: border-box;
+  }
+  #flightInfo p {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  #flightInfo h3 {
+    padding-left: 0;
+    padding-right: 0;
+  }
   .col8 {
     width: 100%;
   }
@@ -221,5 +234,18 @@ footer {
     padding-left: 10pt;
     padding-right: 10pt;
     box-sizing: border-box;
+  }
+  header {
+    padding-left: 10pt;
+    padding-right: 10pt;
+    box-sizing: border-box;
+  }
+  #flightInfo p {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  #flightInfo h3 {
+    padding-left: 0;
+    padding-right: 0;
   }
 }
