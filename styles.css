@@ -59,6 +59,7 @@ h4 {
 .imageLarge {
   width: 100%;
   max-width: 1000px;
+  padding-top: 20px;
   display: block;
 }
 .iconSmall {
