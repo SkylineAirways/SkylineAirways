@@ -102,6 +102,7 @@ span.button {
   font-family: 'Open Sans', helvetica, arial, sans-serif;
   font-size: 0.8em;
   display: inline-block;
+  text-align: center;
 }
 span.button.callAction {
   background-color: #174082;
