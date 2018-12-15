@@ -177,23 +177,28 @@ footer {
 }
 @media only screen and (min-width: 750px) and (max-width: 1000px) {
   p {
-    padding: 10pt;
+    padding-left: 10pt;
+    padding-right: 10pt;
     box-sizing: border-box;
   }
   h1 {
-    padding: 10pt;
+    padding-left: 10pt;
+    padding-right: 10pt;
     box-sizing: border-box;
   }
   h2 {
-    padding: 10pt;
+    padding-left: 10pt;
+    padding-right: 10pt;
     box-sizing: border-box;
   }
   h3 {
-    padding: 10pt;
+    padding-left: 10pt;
+    padding-right: 10pt;;
     box-sizing: border-box;
   }
   h4 {
-    padding: 10pt;
+    padding-left: 10pt;
+    padding-right: 10pt;
     box-sizing: border-box;
   }
 }
